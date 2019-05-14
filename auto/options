@@ -1,0 +1,12 @@
+
+# Copyright (C) Igor Sysoev
+# Copyright (C) Nginx, Inc.
+
+
+help=no
+
+NGX_PREFIX=
+
+CC=${CC:-cc}
+CPP=
+NGX_OBJS=objs
